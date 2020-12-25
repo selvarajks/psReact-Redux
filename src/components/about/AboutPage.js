@@ -5,7 +5,7 @@ const AboutPage = () => (
     <h2>About psReact App</h2>
     <p>
       This app uses React, Redux, React Router, and many other helpful
-      libraries.
+      libraries for react learning.
     </p>
   </div>
 );
